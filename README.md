@@ -13,5 +13,5 @@ I write articles about the [wonders of web3 for Telex](https://telex.hu/szerzo/c
 
 ## Terraforming Earth
 
-I founded Lost Robots, a game studio. We released [Terraforming Earth](https://www.terraforming.earth) in 2020, a game about quirky robots saving the world after a mysterious AI accident.
+I founded Lost Robots, a game studio. We released [Terraforming Earth](http://www.terraforming.earth) in 2020, a game about quirky robots saving the world after a mysterious AI accident.
 
