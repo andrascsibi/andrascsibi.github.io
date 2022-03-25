@@ -1,5 +1,3 @@
-![This is an image](andras_2021.jpeg)
-
 # Hello, my name is Andras Csibi. 
 
 I'm an analyst at [Decent Investments](https://www.decent.net). I'm researching cryptocurrencies and web3 technologies.
