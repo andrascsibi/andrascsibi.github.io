@@ -2,7 +2,7 @@
 
 I'm an analyst at [Decent Investments](https://www.decent.net). I'm researching cryptocurrencies and web3 technologies.
 
-I spend my free time with my family and by building the Metaverse in secret. 
+I spend my free time with my family and I'm building the Metaverse in secret. 
 
 ## Web3 articles 🇭🇺
 
