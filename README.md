@@ -15,3 +15,6 @@ I write articles about the [wonders of web3 for Telex](https://telex.hu/szerzo/c
 
 I founded Lost Robots, a game studio. We released [Terraforming Earth](http://www.terraforming.earth) in 2020, a game about quirky robots saving the world after a mysterious AI accident.
 
+## Contact
+
+My web3 identity is secret but you can find me in the Old World: [Twitter](https://twitter.com/Andrasforming) [LinkedIn](https://www.linkedin.com/in/andrascsibi/)
