@@ -17,4 +17,4 @@ I founded Lost Robots, a game studio. We released [Terraforming Earth](http://ww
 
 ## Contact
 
-My web3 identity is secret but you can find me in the Old World: [Twitter](https://twitter.com/Andrasforming) [LinkedIn](https://www.linkedin.com/in/andrascsibi/)
+My web3 identity is secret but you can find me in the Old World: [Twitter](https://twitter.com/Andrasforming) [LinkedIn](https://www.linkedin.com/in/andrascsibi/). You can also reach me via my name at proton dot me.
