@@ -27,6 +27,6 @@ Bármelyik láncot választhatod, de itt egy javaslat, mely a Solana blokklánco
 1. Telepíts [Phantom tárcát](https://phantom.app/) (szóláncra vigyázni!!!).
 2. Küldj egy kis Solanat a tárcádba. 0.05 SOL elég is lesz (kb $5). Szinte bármelyik centralizált kriptó váltón tudsz Solanat venni bankkártyával, például az [FTX](https://ftx.com/)-en.
 3. Bocsásd ki az első NFT-det a [Holaplexen](https://www.holaplex.com/). ("Mint NFTs" gomb a jobb felső sarokban.)
-4. Küldd el az NFT Holaplex oldalát emailben az [andras.csibi@protonmail.com](mailto:andras.csibi@protonmail.com) címre.
+4. Küldd el az NFT Holaplex oldalát emailben az [andras.csibi@proton.me](mailto:andras.csibi@proton.me) címre.
 
 Ha elakadtál, kérj segítséget emailben. Sok sikert! Ne hagyjuk, hogy az intézmények ellopják a JPG-nket. 🤝
