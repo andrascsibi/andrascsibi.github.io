@@ -6,11 +6,13 @@
 - [Magic Eden NFT marketplace](https://magiceden.io/)
 - [Holaplex 1/1 NFTs](https://www.holaplex.com/)
 - [metaverse museum](https://www.desolate.space/planet/5359)
-- Our shared little secret. Can you claim the monkette?
+- Our shared little secret:
 
 ```
 miss base art dignity december story retire bounce umbrella tomorrow ghost mercy
 ```
+
+Can you claim the monkette?
 
 ## Házi feladat: készíts saját NFT-t!
 
@@ -27,4 +29,4 @@ Bármelyik láncot választhatod, de itt egy javaslat, mely a Solana blokklánco
 3. Bocsásd ki az első NFT-det a [Holaplexen](https://www.holaplex.com/). ("Mint NFTs" gomb a jobb felső sarokban.)
 4. Küldd el az NFT Holaplex oldalát emailben az [andras.csibi@protonmail.com](mailto:andras.csibi@protonmail.com) címre.
 
-Ha elakadtál, kérj segítséget emailben. Sok sikert! Ne hagyjuk, hogy az intézmények ellopják a JPG-nket.
+Ha elakadtál, kérj segítséget emailben. Sok sikert! Ne hagyjuk, hogy az intézmények ellopják a JPG-nket. 🤝
