@@ -14,7 +14,11 @@ miss base art dignity december story retire bounce umbrella tomorrow ghost mercy
 
 Can you claim the monkette?
 
-## Házi feladat: készíts saját NFT-t!
+## Házi feladat
+
+Két feladat közül választhatsz.
+
+### A) Készíts saját NFT-t!
 
 Az NFT-k a mémgyártás eszközei. Bárki beszállhat. 1-2 dolcsiból kijön.
 
@@ -27,6 +31,10 @@ Bármelyik láncot választhatod, de itt egy javaslat, mely a Solana blokklánco
 1. Telepíts [Phantom tárcát](https://phantom.app/) (szóláncra vigyázni!!!).
 2. Küldj egy kis Solanat a tárcádba. 0.05 SOL elég is lesz (kb $5). Szinte bármelyik centralizált kriptó váltón tudsz Solanat venni bankkártyával, például az [FTX](https://ftx.com/)-en.
 3. Bocsásd ki az első NFT-det a [Holaplexen](https://www.holaplex.com/). ("Mint NFTs" gomb a jobb felső sarokban.)
-4. Küldd el az NFT Holaplex oldalát emailben az [andras.csibi@proton.me](mailto:andras.csibi@proton.me) címre.
+4. Küldd el az NFT-d Holaplex oldalát emailben az [andras.csibi@proton.me](mailto:andras.csibi@proton.me) címre.
 
 Ha elakadtál, kérj segítséget emailben. Sok sikert! Ne hagyjuk, hogy az intézmények ellopják a JPG-nket. 🤝
+
+### B) Írj összefoglalót egy kriptós cikkről
+
+Foglalj össze kb egy oldalban (~500 szó) egy kriptós cikket, amit nemrég olvastál. Ha nem olvastál mostanában kriptós cikket, ajánljuk az Ethereum-alapító [Vitalik Buterin blogját](https://vitalik.ca/), esetleg a [sajátunkat](https://superposition.hu/hu/blog) vagy [Dávid](https://telex.hu/szerzo/szabo-david) és [Andris](https://telex.hu/szerzo/csibi-andras) Telexes cikkeit. Plusz pontért publikáld az összefoglalódat a saját honlapodon vagy blogodon a saját gondolataiddal együtt.
