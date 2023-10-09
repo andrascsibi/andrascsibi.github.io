@@ -10,7 +10,7 @@ I write articles about the [wonders of web3 for Telex](https://telex.hu/szerzo/c
 
 - [Amikor a kriptót átbrandelték web3-ra](https://telex.hu/nevertek/2022/01/24/web3-kripto-nft-metaverzum)
 - [Nyolcmilliárd forint egy pixeles képért? Tuti üzlet!](https://telex.hu/nevertek/2022/03/23/nyolcmilliard-forint-egy-pixeles-kepert-tuti-uzlet)
-- [Hová vezet a legújabb Bitcoin-mánia?]([https://hold.hu/holdblog/bitcoin-blokklanc-digitalis-mutargy-nft-csibi-andras/])
+- [Hová vezet a legújabb Bitcoin-mánia?](https://hold.hu/holdblog/bitcoin-blokklanc-digitalis-mutargy-nft-csibi-andras/)
 - [Mitől olyan nagy biznisz az Ethereum?](https://hold.hu/holdblog/ethereum-befektetes-piac-bitcoin-kripto-csibi-andras/)
 
 ## Terraforming Earth
