@@ -3,3 +3,10 @@ logo: andras_2021.jpeg
 description: Ember, férj, apa, az együttműködés híve
 lang: hu
 theme: jekyll-theme-minimal
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - vendor
+  - node_modules
