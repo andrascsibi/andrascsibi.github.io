@@ -53,9 +53,13 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
-      // Open external links in a new tab
+      // Open external links in a new tab, plus same-domain GitHub project
+      // pages that aren't part of this site (new_tab_paths in _config.yml)
+      var newTabPaths = {{ site.new_tab_paths | default: empty | jsonify }};
       document.querySelectorAll('a[href]').forEach(function (a) {
-        if (a.hostname && a.hostname !== location.hostname) {
+        var external = a.hostname && a.hostname !== location.hostname;
+        var project = newTabPaths.some(function (p) { return a.pathname.indexOf(p) === 0; });
+        if (external || project) {
           a.target = '_blank';
           a.rel = 'noopener';
         }
