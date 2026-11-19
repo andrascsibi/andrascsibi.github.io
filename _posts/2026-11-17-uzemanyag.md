@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiszta üzemanyag
-permalink: /uzemanyag/
+permalink: /uzemanyag
 ---
 
 Ma öt karbantartási feladatot pipáltam ki a lakásban: kicseréltem a konyhai vízszűrőt, beWD-40-eztem a nyílászárókat, ellenőriztem a FI-relét és a tűzoltóeszközöket, kitisztítottam a mosogatógép szűrőjét és leolvasztottam a mélyhűtőt. Utóbbin három és fél centi jég volt, a fiók épp csak becsukódott. Azt hittem, öt éve olvasztottam le utoljára, de most, hogy tényleg megcsináltam, elbizonytalanodtam: lehet, hogy sose.
