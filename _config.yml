@@ -1,6 +1,6 @@
 title: Csibi András
 logo: andras_2021.jpeg
-description: Ember, férj, apa, az együttműködés híve
+description: Ember, férj, apa, együttműködés-rajongó
 lang: hu
 theme: jekyll-theme-minimal
 exclude:
@@ -10,3 +10,6 @@ exclude:
   - package.json
   - vendor
   - node_modules
+# Same-domain project pages (other repos) that open in a new tab
+new_tab_paths:
+  - /vandor/
