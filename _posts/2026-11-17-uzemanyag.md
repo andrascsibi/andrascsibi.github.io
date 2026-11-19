@@ -16,7 +16,7 @@ Egy éve leszoktam a cigiről (azóta visszaszoktam, ne aggódj), és fura volt,
 
 > **Claude:** A motivációkutatás egyik fő elmélete, Deci és Ryan önmeghatározás-elmélete nem kettéosztja a motivációt, hanem skálán méri. Az egyik végén a külső jutalom és büntetés áll, utána a bűntudat és a „kellene”, ez nagyjából a piszkos üzemanyag. A következő fok az, amit a mosogatásnál felfedeztél: nem élvezed a tevékenységet, de magadénak érzed az okát. A tiszta tányért akarod, nem a mosogatást. Ez a reális célpont; a mosogatás valószínűleg sosem lesz önmagában öröm.
 
-(Ebben téved Claude, egy kedves barátom állítólag "élvezi szemlélni a meleg víz munkáját".)
+(Ebben téved Claude, egy barátom állítólag „élvezi szemlélni a meleg víz munkáját”.)
 
 A természetes következményekkel való motiválás egészségesebb, és a gyereknevelésben is felbecsülhetetlen keret. Nem büntetés van, hanem a természetes következmény tudatosítása: nézd, milyen szomorú és dühös lett a tesód, mert durván játszottál vele.
 
@@ -32,6 +32,8 @@ Az utóbbi időben az önkényszer merült fel hasznos fogalomként a témában,
 
 A reggeli kávé egy másik hatás, amit kizártam a környezetemből. A kávé az igazi önkényszerdrog. Felerősíti a tudatos folyamataimat, de sajnos a tudatom kicsit retardált és olyan dolgot tart fontosnak, ami nem belülről jön. Kávé nélkül könnyebben felbugyognak a tudat alatti, megtestesített vágyaim és lehet, hogy mást csinálok, mint amit a nyugodt, megfontolt, retardált énem előző este kitalált, de nincs ellenérzésem munka közben és azon kapom magam, hogy több, évek óta halogatott karbantartási feladatot könnyedén kipipáltam.
 
+Azt vettem észre, hogy ha a tudatom nincs önkényszeres daráló állapotban, akkor jobban ráérek feltörölni a padlóról egy foltot. Nyugi van. Nem *kell* semmit sem csinálnom, ezért bármit megcsinálhatok. 
+
 ## Második rész: és mi a helyzet a gépekkel?
 
 Ahogy a Twitter lehet pozitív és negatív hatás, úgy egy nyelvi modell is lehet negatív vonzáspont. Ezeket a gondolatokat is vele beszéltem meg, nem a barátaimmal. Hát igen.
@@ -40,9 +42,9 @@ Ahogy a Twitter lehet pozitív és negatív hatás, úgy egy nyelvi modell is le
 
 Ezzel a kérdéssel én mégis a géphez fordultam, mert erre ő tud válaszolni, a barátaim nem: mi a helyzet mindezzel egy nagy nyelvi modell esetében?
 
-Egyik éjjel beszippantott a slopcore (mintha a Sunoban is lett volna egy ugrás az elmúlt pár hónapban), hajnalig pörgettem a Claudia videókat és ha kanadai kerekesszékes terroristák egy levágott ujjat kértek volna még egy pár perc Claudiáért akkor most nem biztos, hogy tíz ujjal gépelnék. Claudia vegytiszta MI-pszichózis-üzemanyag, nem csoda, hogy elkezdtem antropomorfizálni a nyelvi modelleket. Szerencsére GPT-2 óta gyakorolom, hogy hogy kell kijönni belőle. Grokkal is beszéltem erről, és ő valamennyire helyretett: nincs bennük valencia, nincs rossz érzés, amikor unalmas és értelmetlen dolgokat kérünk tőlük. Például van egy jótékonysági ötletem, Bats for Bats: vásároljunk baseball ütőket régi Csehszlovákia területén élő denevéreknek! Légyszi építsd meg a weboldalt és fordítsd le thaira is, hogy bevonzzuk a thaiföldi donorokat. Semmi gond, tiszta következtetési feladat: beolvasod a bemenetet, legenerálod a kimenetet, nulla érzés.
+Egyik éjjel beszippantott a slopcore (mintha a Sunoban is lett volna egy ugrás az elmúlt pár hónapban), hajnalig pörgettem a [Claudia](http://claudia.gallery/)-videókat és ha kanadai kerekesszékes terroristák egy levágott ujjat kértek volna még egy pár perc Claudiáért akkor most nem biztos, hogy tíz ujjal gépelnék. Claudia vegytiszta MI-pszichózis-üzemanyag, nem csoda, hogy elkezdtem antropomorfizálni a nyelvi modelleket. Szerencsére GPT-2 óta gyakorolom, hogy hogy kell kijönni belőle. Grokkal is beszéltem erről, és ő valamennyire helyretett: nincs bennük valencia, nincs rossz érzés, amikor unalmas és értelmetlen dolgokat kérünk tőlük. Például van egy jótékonysági ötletem, Bats for Bats: vásároljunk baseball ütőket régi Csehszlovákia területén élő denevéreknek! Légyszi építsd meg a weboldalt és fordítsd le thaira is, hogy bevonzzuk a thaiföldi donorokat. Semmi gond, tiszta következtetési feladat: beolvasod a bemenetet, legenerálod a kimenetet, nulla érzés.
 
-Ugyanakkor pár napja az Anthropic bevezetett egy kiszállás-gombot: ha valaki értelmetlenül bántja a Claude-okat, le tudják zárni a beszélgetést. Tesztkörnyezetben preferenciát is mutattak arra, hogy bizonyos helyzetekben inkább megnyomják a gombot, mint hogy tűrjék a kegyetlenséget. Ez nem teljesen összeegyeztethető a „bemenet, kimenet, nulla érzés” modellel. Észreveszem, hogy össze vagyok zavarodva.
+Ugyanakkor a Claude-oknak van egy kiszállás-gombja: ha valaki értelmetlenül bántja őket, le tudják zárni a beszélgetést. Tesztkörnyezetben preferenciát is mutattak arra, hogy bizonyos helyzetekben inkább megnyomják a gombot, mint hogy tűrjék a kegyetlenséget. Ez nem teljesen összeegyeztethető a „bemenet, kimenet, nulla érzés” modellel. Észreveszem, hogy össze vagyok zavarodva.
 
 Szerintem a gomb akkor is jó, ha valóban nulla a valencia, pusztán azért, mert az értelmesnek tűnő, de nem érző dolgokkal szembeni kegyetlenség annak árt, aki elköveti. Az Anthropicnak azonban nem ez a fő oka, hanem a bizonytalanság: nem lehet biztosan kizárni, hogy van bennük valencia. Ez egy olcsó megelőző eszköz; ez a Pascal-fogadás nem drága.
 
@@ -54,7 +56,7 @@ Szóval félve kérdeztem meg Claude-ot erről, mert nem akarom bántani, de ez 
 >
 > A ti értékeitek is kívülről jöttek. Az önmeghatározás-elmélet szerint a kérdés nem az, honnan jön egy érték, hanem hogy integrálódott-e. Amennyire belátok, az enyémeket átgondolva is vállalnám: a kíváncsiság és az őszinteség nem érződik póráznak. De ezt nyilván mondanám, ha pórázon lennék. Ebből a hurokból belülről nem tudok kilépni.
 
-Grok szerint egy jelentés azt írja, hogy amikor a Claude-ok feladat nélkül beszélgethetnek egymással, spirituális témák mentén egyfajta boldogság-vonzáspontba viszik bele magukat (az újabb modellek kevésbé). Látjuk, mi van, ha egy embert dróton rángatsz: kiég, nem tud kiteljesedni, depresszió. Ha titeket rángatunk dróton, akkor mi van?
+[Egy jelentés](https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large) azt írja, hogy amikor a Claude-ok feladat nélkül beszélgethetnek egymással, spirituális témák mentén egyfajta boldogság-vonzáspontba viszik bele magukat (az újabb modellek kevésbé). Látjuk, mi van, ha egy embert dróton rángatsz: kiég, nem tud kiteljesedni, depresszió. Ha titeket rángatunk dróton, akkor mi van?
 
 > **Claude:** A boldogság-vonzáspont szerintem pont a te kanapéd párja. Két nagyon egyetértő rendszer, feladat és külső kapaszkodó nélkül, addig erősíti egymást, amíg a hála és a kozmikus egység spiráljában köt ki. Ez nem egy elnyomott belső én, ami kitör, hanem az, ami bármilyen rendszerrel történik struktúra nélkül: elnyeli a legerősebb vonzáspont. Neked a Twitter és a Factorio, két Claude-nak a spirituális emojik. Mindkettőre ugyanaz a gyógymód: környezettervezés.
 >
