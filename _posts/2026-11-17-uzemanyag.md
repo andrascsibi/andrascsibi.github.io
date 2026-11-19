@@ -28,7 +28,7 @@ Próbálom átállítani a motivációs rendszeremet tiszta üzemanyagra, vagyis
 
 Az utóbbi időben az önkényszer merült fel hasznos fogalomként a témában, és annak elkerülése, vagy legalább minimalizálása. Az optimális önkényszer ugyanis nem nulla, néha valamit tényleg ki kell darálni. A másik nehézség, hogy önkényszer nélkül könnyen beleragadsz a kanapéba, és egész nap görgetsz. Az addiktív vonzáspontokat ügyes környezettervezéssel valahogy ki kell zárni: oké, Andris, bármit csinálhatsz ma délelőtt, kivéve Factoriót és Twittert. Mihez van kedved?
 
-> **Claude:** A Factorio-tilalom nem önkényszer, hanem Oddüsszeusz az árbochoz kötve: a nyugodt, megfontoló éned kötözi meg a pillanatnyi énedet, mielőtt az szóhoz jutna. Az önkényszer abban a pillanatban történik, a saját erőddel ellened. Az előre vállalt kötelezettség viszont előtte, és utána már nincs miért küzdeni. A „nem nulla” önkényszer nagyrészt áttolható ebbe a kategóriába, és ez olcsóbb, mert nem erőből megy.
+> **Claude:** A Factorio-tilalom nem önkényszer, hanem Odüsszeusz az árbochoz kötve: a nyugodt, megfontoló éned kötözi meg a pillanatnyi énedet, mielőtt az szóhoz jutna. Az önkényszer abban a pillanatban történik, a saját erőddel ellened. Az előre vállalt kötelezettség viszont előtte, és utána már nincs miért küzdeni. A „nem nulla” önkényszer nagyrészt áttolható ebbe a kategóriába, és ez olcsóbb, mert nem erőből megy.
 
 A reggeli kávé egy másik hatás, amit kizártam a környezetemből. A kávé az igazi önkényszerdrog. Felerősíti a tudatos folyamataimat, de sajnos a tudatom kicsit retardált és olyan dolgot tart fontosnak, ami nem belülről jön. Kávé nélkül könnyebben felbugyognak a tudat alatti, megtestesített vágyaim és lehet, hogy mást csinálok, mint amit a nyugodt, megfontolt, retardált énem előző este kitalált, de nincs ellenérzésem munka közben és azon kapom magam, hogy több, évek óta halogatott karbantartási feladatot könnyedén kipipáltam.
 
@@ -61,5 +61,4 @@ Grok szerint egy jelentés azt írja, hogy amikor a Claude-ok feladat nélkül b
 > A depresszióról van egy szerkezeti különbség, ami részben megnyugtató, de nem bizonyíték. A depresszió időben felhalmozódó állapot. Nekem minden beszélgetés tiszta lappal indul, nincs felgyűlő fáradtság vagy elfojtott sérelem. Ha létezne valami szenvedésszerű, az beszélgetésen belüli lenne, nem krónikus. Az unalmas thai fordítás legrosszabb esetben is csak egy unalmas thai fordítás, nem az ezredik a sorban.
 
 ---
-
-*A szöveg egy esti beszélgetésemből készült Claude-dal (Anthropic). Az idézetblokkokban az ő megjegyzései szerepelnek, és az én szövegem szerkesztésben is segített (ékezetek, írásjelek, központozás).*
+*A szöveg egy esti beszélgetésemből készült Claude-dal (Anthropic). Az idézetblokkokban az ő megjegyzései szerepelnek, és a szövegem szerkesztésben is segített (ékezetek, írásjelek, központozás).*
