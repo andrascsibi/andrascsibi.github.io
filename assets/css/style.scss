@@ -1,0 +1,11 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// The theme bolds links on hover, which reflows the text: a link at a line
+// break jumps to the next line, loses the hover, jumps back... Underline instead.
+a:hover, a:focus {
+  font-weight: inherit;
+  text-decoration: underline;
+}
