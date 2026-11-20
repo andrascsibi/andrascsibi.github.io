@@ -32,7 +32,7 @@ Az utóbbi időben az önkényszer merült fel hasznos fogalomként a témában,
 
 A reggeli kávé egy másik hatás, amit kizártam a környezetemből. A kávé az igazi önkényszerdrog. Felerősíti a tudatos folyamataimat, de sajnos a tudatom kicsit retardált és olyan dolgot tart fontosnak, ami nem belülről jön. Kávé nélkül könnyebben felbugyognak a tudat alatti, megtestesített vágyaim és lehet, hogy mást csinálok, mint amit a nyugodt, megfontolt, retardált énem előző este kitalált, de nincs ellenérzésem munka közben és azon kapom magam, hogy több, évek óta halogatott karbantartási feladatot könnyedén kipipáltam.
 
-Azt vettem észre, hogy ha a tudatom nincs önkényszeres daráló állapotban, akkor jobban ráérek feltörölni a padlóról egy foltot. Nyugi van. Nem *kell* semmit sem csinálnom, ezért bármit megcsinálhatok. 
+Azt vettem észre, hogy ha a tudatom nincs önkényszeres daráló állapotban, akkor jobban ráérek feltörölni a padlóról egy foltot. Nyugi van. Nem kell tennem semmit. Bármit megtehetek. 
 
 ## Második rész: és mi a helyzet a gépekkel?
 
