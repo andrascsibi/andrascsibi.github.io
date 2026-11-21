@@ -19,7 +19,7 @@ Néha írok is.
 
 - [TikTok](https://www.tiktok.com/@egyacs) – itt magyarázok lelkesen a fűrészporról és a fakötésekről
 - [egyacs.hu](https://www.egyacs.hu) – az ácsvállalkozásom
-- [Kertitető](https://kertiteto.hu) – kerti nyeregtető-kalkulátor 3D-ben.
+- [Kertitető](https://kertiteto.hu) – kerti nyeregtető-kalkulátor 3D-ben
 
 ## Vándor
 
@@ -36,14 +36,14 @@ Minden vasárnap kirándulni megyek a családommal a Budai-hegységben. A [Vánd
 
 ## Terraforming Earth
 
-[Barátaimmal](https://noppa.design/) megalapítottuk a Lost Robots játékstúdiót. 2020-ban adtuk ki a [Terraforming Earth](http://www.terraforming.earth)-öt: furcsa kis robotok mentik meg a világot egy rejtélyes MI-baleset után.
+[Barátaimmal](https://noppa.design/) megalapítottuk a Lost Robots játékstúdiót. 2020-ban adtuk ki a [Terraforming Earth](http://www.terraforming.earth)-öt: furcsa kis robotok mentik meg a világot egy rejtélyes AI-baleset után.
 
 ## Japán
 
 Huszonéves koromban Japánban tölthettem egy évet. Írtam útinaplót és lőttem minden nap egy fotót.
 
-- [Andris Jappppánban - Útinapló](https://japppan.blogspot.com/)
-- [Fél év Japánban - Projekt 365 Fotónapló](https://fel-ev-japanban.blogspot.com/)
+- [Andris Japppánban – Útinapló](https://japppan.blogspot.com/)
+- [Fél év Japánban – Projekt 365 Fotónapló](https://fel-ev-japanban.blogspot.com/)
 
 ## Elérhetőség
 
