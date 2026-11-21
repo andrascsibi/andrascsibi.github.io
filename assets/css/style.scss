@@ -9,3 +9,12 @@ a:hover, a:focus {
   font-weight: inherit;
   text-decoration: underline;
 }
+
+// Photo credit under the header portrait: quiet, small, close to the image.
+.photo-credit {
+  margin-top: -14px;
+  font-size: 11px;
+  color: #999;
+
+  a { color: inherit; }
+}

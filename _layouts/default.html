@@ -19,6 +19,7 @@
 
         {% if site.logo and page.show_logo %}
           <img src="{{site.logo | relative_url}}" alt="{{ site.title }}" />
+          <p class="photo-credit">Fotó: <a href="https://www.instagram.com/phraktle/">Szathmáry Viktor</a></p>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
