@@ -38,6 +38,13 @@ Minden vasárnap kirándulni megyek a családommal a Budai-hegységben. A [Vánd
 
 [Barátaimmal](https://noppa.design/) megalapítottuk a Lost Robots játékstúdiót. 2020-ban adtuk ki a [Terraforming Earth](http://www.terraforming.earth)-öt: furcsa kis robotok mentik meg a világot egy rejtélyes MI-baleset után.
 
+## Japán
+
+Húsz éve egy évet Japánban töltöttem. Akkor írtam és fotóztam ezt a két blogot:
+
+- [japppan.blogspot.com](https://japppan.blogspot.com/)
+- [Fél év Japánban](https://fel-ev-japanban.blogspot.com/)
+
 ## Elérhetőség
 
 [Twitter](https://twitter.com/Andrasforming) · [LinkedIn](https://www.linkedin.com/in/andrascsibi/) · e-mail: a nevem kukac proton pont me.
