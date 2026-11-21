@@ -40,10 +40,10 @@ Minden vasárnap kirándulni megyek a családommal a Budai-hegységben. A [Vánd
 
 ## Japán
 
-Húsz éve egy évet Japánban töltöttem. Akkor írtam és fotóztam ezt a két blogot:
+Huszonéves koromban Japánban tölthettem egy évet. Írtam útinaplót és lőttem minden nap egy fotót.
 
-- [japppan.blogspot.com](https://japppan.blogspot.com/)
-- [Fél év Japánban](https://fel-ev-japanban.blogspot.com/)
+- [Andris Jappppánban - Útinapló](https://japppan.blogspot.com/)
+- [Fél év Japánban - Projekt 365 Fotónapló](https://fel-ev-japanban.blogspot.com/)
 
 ## Elérhetőség
 
