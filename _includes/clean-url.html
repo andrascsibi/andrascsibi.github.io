@@ -1,0 +1,7 @@
+    <script>
+      // Strip query params (fbclid, utm_*, …) from the address bar.
+      // replaceState swaps the current entry: no reload, no extra history step.
+      if (location.search && history.replaceState) {
+        history.replaceState(history.state, '', location.pathname + location.hash);
+      }
+    </script>
